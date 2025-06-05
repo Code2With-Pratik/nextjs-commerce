@@ -30,6 +30,5 @@ export function WelcomeToast() {
       });
     }
   }, []);
-
   return null;
 }
