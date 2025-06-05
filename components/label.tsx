@@ -30,5 +30,4 @@ const Label = ({
     </div>
   );
 };
-
 export default Label;
